@@ -1,0 +1,1 @@
+import{r as s,h as o,H as l}from"./p-12d1bf76.js";let p=class{constructor(o){s(this,o)}render(){return o(l,null,o("slot",null,o("div",{class:"app-photos"},o("p",null,"Hello! App Photos here!"))))}};p.style=":host{display:block}";export{p as app_photos}

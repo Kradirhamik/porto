@@ -1,0 +1,1 @@
+import{r as s,h as l,H as e}from"./p-12d1bf76.js";let t=class{constructor(l){s(this,l)}render(){return l(e,null,l("slot",null,l("div",{class:"app-events"},l("p",null,"Hello! App Events here!"))))}};t.style=":host{display:block}";export{t as app_events}
