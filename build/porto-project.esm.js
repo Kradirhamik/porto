@@ -1,0 +1,2 @@
+import{p,b as e}from"./p-e2768912.js";export{s as setNonce}from"./p-e2768912.js";const o=()=>{const e=import.meta.url;const o={};if(e!==""){o.resourcesUrl=new URL(".",e).href}return p(o)};o().then((p=>e([["p-c8bf2076",[[1,"app-footer"],[1,"app-header"],[1,"app-home"]]],["p-a559b958",[[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],p)));
+//# sourceMappingURL=porto-project.esm.js.map
